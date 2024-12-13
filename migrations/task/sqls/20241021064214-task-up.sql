@@ -246,4 +246,3 @@ insert into "COURSE" (user_id,skill_id,name,start_at,end_at,max_participants,mee
 
 -- 6-5. 查詢：計算 11 月份有預約課程的會員人數（需使用 Distinct，並用 created_at 和 status 欄位統計）
 -- 顯示須包含以下欄位： 預約會員人數
-
